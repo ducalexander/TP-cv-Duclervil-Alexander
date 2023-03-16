@@ -1,0 +1,50 @@
+.encadre{ 
+    width: 55%; border: 3px solid gray; 
+    text-align: center;
+    margin: auto;
+ }  
+h2{
+    color: black;
+ }
+
+.droite{
+    float: right; width: 45%; border: 3px;background-color:;
+    text-align: ;
+}
+.gauche{
+    float: left; width: 55%; border: 3px ;background-color: ;
+
+}
+.tf{
+     width: 50%;  border-radius: 100px 100px 100px 100px; background-color: beige;
+     box-shadow: 6px 6px 0px black;
+    text-align: center;
+    margin: auto;
+}
+.gauche1{
+    float: right; width: 99%; border-radius: 100px 100px 100px 100px; background-color: gray;
+    text-align: center;
+    margin: auto;
+
+}
+.ty{
+    text-align: center;
+    margin: auto;
+}
+.th{
+    float: center; width: 50%; border-radius: 50px 50px 50px 50px; background-color: beige;
+    box-shadow: 6px 6px 0px black;
+    text-align: center;
+    margin: auto ;
+}
+.tp{
+    width: 55%;  border-radius: 100px 100px 100px 100px; color: beige; 
+    margin: auto ; 
+}
+body{
+    background-color: beige;
+}
+img{
+    width: 100%; border-radius: 100px 100px 100px 100px;
+    box-shadow: 6px 6px 0px black;
+}
